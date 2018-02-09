@@ -1,0 +1,15 @@
+D:\Projects\Distance_Camera_Editor\Distance_Camera_Editor\bin\Release\Distance_Camera_Editor.exe.config
+D:\Projects\Distance_Camera_Editor\Distance_Camera_Editor\bin\Release\Distance_Camera_Editor.exe
+D:\Projects\Distance_Camera_Editor\Distance_Camera_Editor\bin\Release\Distance_Camera_Editor.pdb
+D:\Projects\Distance_Camera_Editor\Distance_Camera_Editor\bin\Release\MetroFramework.Design.dll
+D:\Projects\Distance_Camera_Editor\Distance_Camera_Editor\bin\Release\MetroFramework.dll
+D:\Projects\Distance_Camera_Editor\Distance_Camera_Editor\bin\Release\MetroFramework.Fonts.dll
+D:\Projects\Distance_Camera_Editor\Distance_Camera_Editor\obj\Release\Distance_Camera_Editor.aboutForm.resources
+D:\Projects\Distance_Camera_Editor\Distance_Camera_Editor\obj\Release\Distance_Camera_Editor.mainForm.resources
+D:\Projects\Distance_Camera_Editor\Distance_Camera_Editor\obj\Release\Distance_Camera_Editor.Properties.Resources.resources
+D:\Projects\Distance_Camera_Editor\Distance_Camera_Editor\obj\Release\Distance_Camera_Editor.settingsForm.resources
+D:\Projects\Distance_Camera_Editor\Distance_Camera_Editor\obj\Release\Distance_Camera_Editor.csproj.GenerateResource.Cache
+D:\Projects\Distance_Camera_Editor\Distance_Camera_Editor\obj\Release\Distance_Camera_Editor.csproj.CoreCompileInputs.cache
+D:\Projects\Distance_Camera_Editor\Distance_Camera_Editor\obj\Release\Distance_Camera_Editor.exe
+D:\Projects\Distance_Camera_Editor\Distance_Camera_Editor\obj\Release\Distance_Camera_Editor.pdb
+D:\Projects\Distance_Camera_Editor\Distance_Camera_Editor\obj\Release\Distance_Camera_Editor.csprojResolveAssemblyReference.cache
